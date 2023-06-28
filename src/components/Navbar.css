@@ -1,0 +1,39 @@
+.icon-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: 6rem;
+  }
+  
+  .icon {
+    font-size: 7rem;
+    margin-bottom: 3rem;
+  }
+  
+  
+  .icon-text {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+  
+  
+
+  h1 {
+    position: absolute;
+    top: -200px; /* Ajusta el valor para moverlo más arriba */
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4rem;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+  }
+
+  .banner-heading {
+    font-size: 5rem;
+  }
